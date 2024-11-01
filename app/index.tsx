@@ -36,7 +36,7 @@ const HomeScreen = () => {
             color: '#FFFFFF', // Header title color
           },
           headerStyle: {
-            backgroundColor: '#5A2E91', // Header background color
+            backgroundColor: '#FDF6FE', // Header background color
           },
           headerRight: () => {
             return (
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     paddingTop: 20,
     marginBottom: 100,
-    backgroundColor: '#5A2E91', // Inner container background
+    backgroundColor: '#EDD7F2', // Inner container background
     borderRadius: 10,
     elevation: 5,
     paddingBottom: 20,
