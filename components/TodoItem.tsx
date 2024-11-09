@@ -78,11 +78,11 @@ const styles = StyleSheet.create({
   },
   // Background color for incomplete tasks
   incomplete: {
-    backgroundColor: "#eded98", // Light gray for incomplete tasks
+    backgroundColor: "#C4A5F4", // Light gray for incomplete tasks
   },
   // Background color for completed tasks
   completed: {
-    backgroundColor: "#C8E6C9", // Light green for completed tasks
+    backgroundColor: "#E0E0E1", // Light green for completed tasks
   },
   title: {
     fontSize: 24,
